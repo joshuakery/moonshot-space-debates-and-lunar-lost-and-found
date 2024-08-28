@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/3D SCENE/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/3D SCENE/Scenes/Charter_Mission.unity
+    guid: 4bd8ac73e044945c6a518e88fb4a3774
+  - enabled: 0
+    path: Assets/3D SCENE/Scenes/Hunt_Mission.unity
+    guid: 33deb85126137472eaff72e3452d428e
+  - enabled: 1
+    path: Assets/3D SCENE/Scenes/Charter_Space Now.unity
+    guid: 4e5449ec1e8d64382abc2365c0cc90a2
+  - enabled: 0
+    path: Assets/UI/Common UI/My Plugins/SharedConclusion/Scenes/ResultsScene.unity
+    guid: 2965bb9837ba24dfa8b71e6de0872260
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/UI/Charter UI/Scenes/Blank.unity
+    guid: ea80c43286abc447085108015e69ce89
+  - enabled: 0
+    path: Assets/UI/Common UI/My Plugins/SharedConclusion/Scenes/ResultsScene Charter.unity
+    guid: 1a504bbafd405494684606cae6368672
+  m_configObjects: {}
